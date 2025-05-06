@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
-	printf("hello world");
-	printf("welcome to AUB");
+	printf("I am megha");
+	printf("Amity university");
+	printf("Bengaluru");
 	return 0;
 }
